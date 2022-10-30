@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "crocodile:block/cyan_rose"
+    }
+}

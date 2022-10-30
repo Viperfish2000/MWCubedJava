@@ -1,0 +1,69 @@
+{
+  "entity.crocodile.ambient_baby": {
+    "sounds": [
+      "crocodile:croc_baby1",
+      "crocodile:croc_baby2",
+      "crocodile:croc_baby3"
+    ],
+    "subtitle": "subtitles.entity.crocodile.ambient_baby"
+  },
+  "entity.crocodile.death": {
+    "sounds": [
+      "crocodile:croc_death"
+    ],
+    "subtitle": "subtitles.entity.crocodile.death"
+  },
+  "entity.crocodile.hurt": {
+    "sounds": [
+      "crocodile:croc_hurt1",
+      "crocodile:croc_hurt2"
+    ],
+    "subtitle": "subtitles.entity.crocodile.hurt"
+  },
+  "entity.crocodile.warning": {
+    "sounds": [
+      {
+        "name": "crocodile:croc_warning1",
+        "pitch": 1.0
+      },
+      "crocodile:croc_warning1",
+      "crocodile:croc_warning2"
+    
+    ],
+    "subtitle": "subtitles.entity.crocodile.warning"
+  },
+   "entity.crocodile.attack": {
+    "sounds": [
+      {
+        "name": "crocodile:croc_attack1",
+        "pitch": 1.0
+      }, 
+      {
+        "name": "crocodile:croc_attack2",
+        "pitch": 1.0
+      }
+    ],
+    "subtitle": "subtitles.entity.crocodile.attack"
+  },
+     "entity.crocodile.ambient": {
+    "sounds": [
+      {
+        "name": "crocodile:croc_ambient1",
+        "pitch": 1.0
+      }, 
+      {
+        "name": "crocodile:croc_ambient2",
+        "pitch": 1.0
+      }, 
+      {
+        "name": "crocodile:croc_ambient3",
+        "pitch": 1.0
+      }, 
+      {
+        "name": "crocodile:croc_ambient",
+        "pitch": 1.0
+      }
+    ],
+    "subtitle": "subtitles.entity.crocodile.ambient"
+  }
+ }

@@ -1,0 +1,26 @@
+{
+"block.crocodile.snowy_stone": "Snowy Stone",
+"block.crocodile.dirt_slab": "Dirt Slab",
+"block.crocodile.rose": "Rose",
+"block.crocodile.cyan_rose": "Rose",
+"block.crocodile.dirt_stairs": "Dirt Stairs",
+"block.crocodile.glass_stairs": "Glass Stairs",
+"block.crocodile.glass_slab": "Glass Slab",
+
+"item.crocodile.crocodile_spawn_egg": "Crocodile Spawn Egg",
+"item.crocodile.emerald_sword": "Emerald Sword",
+"item.crocodile.emerald_axe": "Emerald Axe",
+"item.crocodile.emerald_hoe": "Emerald Hoe",
+"item.crocodile.emerald_shovel": "Emerald Shovel",
+"item.crocodile.emerald_pickaxe": "Emerald Pickaxe",
+"item.crocodile.emerald_chestplate": "Emerald Chestplate",
+"item.crocodile.emerald_helmet": "Emerald Helmet",
+"item.crocodile.emerald_leggings": "Emerald Leggings",
+"item.crocodile.emerald_boots": "Emerald Boots",
+
+"entity.crocodile.crocodile": "Crocodile",
+"entity.crocodile.chest_boat": "Boat with Chest",
+"entity.crocodile.megalodon": "Megalodon",
+"entity.crocodile.honey_slime": "Radiation Slime",
+"effect.crocodile.honey_effect": "Sticky"
+}

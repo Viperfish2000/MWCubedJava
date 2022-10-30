@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "crocodile:block/dirt_slab" },
+        "type=top": { "model": "crocodile:block/dirt_slab_top" },
+        "type=double": { "model": "block/dirt" }
+    }
+}

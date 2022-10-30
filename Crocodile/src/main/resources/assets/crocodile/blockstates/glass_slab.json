@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "crocodile:block/glass_slab" },
+        "type=top": { "model": "crocodile:block/glass_slab_top" },
+        "type=double": { "model": "block/glass" }
+    }
+}
